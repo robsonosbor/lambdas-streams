@@ -9,9 +9,9 @@ import entities.User;
 public class Program {
 
 	public static void main(String[] args) {
-		User user1 = new User("Paulo Silveira", 150);
-		User user2 = new User("Rodrigo Turini", 120);
-		User user3 = new User("Guilherme Silveira", 190);
+		User user1 = new User("Paul Green", 150);
+		User user2 = new User("Robert Blue", 120);
+		User user3 = new User("Mary Brown", 190);
 
 		List<User> usuarios = Arrays.asList(user1, user2, user3);
 		
